@@ -16,11 +16,11 @@ public class c20 {
 
         if(n%3 == 0)
         {
-            System.out.println("Divisble by 3");
+            System.out.println("Multiple of 3");
         }
         else
         {
-            System.out.println("Not Divisble by 3");
+            System.out.println("Not Multiple of 3");
         }
     }
     
