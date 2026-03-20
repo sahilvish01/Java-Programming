@@ -1,6 +1,5 @@
 //  Use switch-case to build a simple calculator (Add, Sub, Mul, Div)
 
-package lect2;
 
 import java.util.Scanner;
 
